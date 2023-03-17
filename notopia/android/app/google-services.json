@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855291498229",
+    "project_id": "flutterfirenotes-5e160",
+    "storage_bucket": "flutterfirenotes-5e160.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855291498229:android:11ca3cf2a1846429483fbc",
+        "android_client_info": {
+          "package_name": "com.example.notopia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855291498229-fsnb2je81d2gpolmkah2je47q3f0i03j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv00AIfHuGQlrKldB3zkLbNSP3r6N6eTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855291498229-fsnb2je81d2gpolmkah2je47q3f0i03j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
